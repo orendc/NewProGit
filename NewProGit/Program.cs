@@ -7,6 +7,7 @@ namespace NewProGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("From GitHub");
             Console.ReadLine();
         }
     }
