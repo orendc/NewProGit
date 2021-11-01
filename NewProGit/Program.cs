@@ -9,6 +9,7 @@ namespace NewProGit
             Console.WriteLine("Hello World!");
             Console.WriteLine("From GitHub");
             Console.WriteLine("From Vs");
+            Console.WriteLine("New git");
             Console.WriteLine("From VS1");
             Console.ReadLine();
         }
